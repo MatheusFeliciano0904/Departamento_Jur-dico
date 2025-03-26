@@ -1,0 +1,1 @@
+INSERT INTO PESSOA (cpf_cnpj, id_atendimento, como_soube, genero, BAIRRO, CIDADE, ESTADO) VALUES
